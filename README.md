@@ -2,7 +2,7 @@
 
 
 
-- 🔭  I’m currently working on a Python Tik Tak Toe Console Game
+- 🔭  I’m currently in between projects
 
 - 🌱  I’m currently learning Python
 
