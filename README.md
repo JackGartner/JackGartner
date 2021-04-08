@@ -2,7 +2,7 @@
 
 
 
-- 🔭  I’m currently updating my past projects
+- 🔭  I’m currently finishing up a python project
 
 - 🌱  I’m currently learning Python
 
