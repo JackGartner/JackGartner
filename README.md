@@ -2,9 +2,9 @@
 
 
 
-- 🔭  I’m currently finishing up a python project
+- 🔭  I’m currently working on a Arduino DHT-11 temperature and humidity sensor.
 
-- 🌱  I’m currently learning Python
+- 🌱  I’m currently learning C++
 
 - 📫  How to reach me: 204547@students.wyoarea.org
 
