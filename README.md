@@ -2,9 +2,9 @@
 
 
 
-- 🔭  I’m currently working on a Arduino DHT-11 temperature and humidity sensor.
+- 🔭  I’m currently working on CMU Academy CS 1
 
-- 🌱  I’m currently learning C++
+- 🌱  I’m currently learning python
 
 - 📫  How to reach me: 204547@students.wyoarea.org
 
