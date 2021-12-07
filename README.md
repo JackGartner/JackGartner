@@ -2,7 +2,7 @@
 
 
 
-- 🔭  I’m currently working on CMU Academy CS 1
+- 🔭  I’m currently working on an Ultrasonic motion detector
 
 - 🌱  I’m currently learning python
 
