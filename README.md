@@ -2,9 +2,9 @@
 
 
 
-- 🔭  I’m currently working on an Ultrasonic motion detector
+- 🔭  I’m currently working on a Unity VR Project
 
-- 🌱  I’m currently learning python
+- 🌱  I’m currently learning Java
 
 - 📫  How to reach me: 204547@students.wyoarea.org
 
